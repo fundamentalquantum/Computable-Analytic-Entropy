@@ -1,8 +1,8 @@
-# Computable-Analytic-Entropy
+# Computable Analytic Entropy
 
 Spontaneous Entropy Increase as Causality
 
-
+Multiplicative Entropy
 
 # 3.1 Definition
 The entropy formulation S=∏ m ᵢ (i∈ ℕ) operates fundamentally at the SEQ level while enabling coarse-graining for arbitrary massive many-body systems. This universality stems from energy-mass equivalence, allowing the cumulative product to inherently encode multi-body interactions. The formulation imposes first-principles computational constraints for discrete simulations across all scales.
