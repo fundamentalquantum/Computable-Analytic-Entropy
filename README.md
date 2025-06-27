@@ -2,7 +2,7 @@
 
 Spontaneous Entropy Increase as Causality
 
-# Computable Analytic Entropy
+
 
 # 3.1 Definition
 The entropy formulation S=∏ m ᵢ (i∈ ℕ) operates fundamentally at the SEQ level while enabling coarse-graining for arbitrary massive many-body systems. This universality stems from energy-mass equivalence, allowing the cumulative product to inherently encode multi-body interactions. The formulation imposes first-principles computational constraints for discrete simulations across all scales.
@@ -25,9 +25,9 @@ The conservation laws, entropy ceiling, and alignment with classical thermodynam
 
 ## Computable Analytic Entropy: Advantages Over Traditional Statistical Entropy
 
-# Multiplicative analytic entropy (S=∏ᵢ mᵢ) explicitly encodes each step of energy homogenization within a system. Unlike traditional statistical entropy (S∝ln Ω), which only captures macroscopic state differences through logarithmic counting of microstates, the multiplicative formulation preserves microscopic transition details via cumulative product operations. This allows direct tracking of irreversible energy redistribution dynamics, where every incremental increase in entropy corresponds to a quantifiable step toward equilibrium—naturally embedding time asymmetry without ad hoc assumptions about low-entropy initial conditions.
+ Multiplicative analytic entropy (S=∏ᵢ mᵢ) explicitly encodes each step of energy homogenization within a system. Unlike traditional statistical entropy (S∝ln Ω), which only captures macroscopic state differences through logarithmic counting of microstates, the multiplicative formulation preserves microscopic transition details via cumulative product operations. This allows direct tracking of irreversible energy redistribution dynamics, where every incremental increase in entropy corresponds to a quantifiable step toward equilibrium—naturally embedding time asymmetry without ad hoc assumptions about low-entropy initial conditions.
 
-# At Planck-scale (tₚ) resolutions, multiplicative entropy reveals deterministic characteristics of physical states, bridging quantum fluctuations with macroscopic thermodynamics. Traditional statistical entropy, limited to ensemble averages, cannot resolve such fine-grained dynamics or transient entropy production during short-timescale interactions. The analytic foundation of multiplicative entropy unifies deterministic Planck-scale behavior with emergent statistical phenomena, offering a physically intuitive framework where entropy generation directly mirrors energy dispersal processes.
+ At Planck-scale (tₚ) resolutions, multiplicative entropy reveals deterministic characteristics of physical states, bridging quantum fluctuations with macroscopic thermodynamics. Traditional statistical entropy, limited to ensemble averages, cannot resolve such fine-grained dynamics or transient entropy production during short-timescale interactions. The analytic foundation of multiplicative entropy unifies deterministic Planck-scale behavior with emergent statistical phenomena, offering a physically intuitive framework where entropy generation directly mirrors energy dispersal processes.
 
 ## Key advantages include:
 
